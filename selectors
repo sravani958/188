@@ -1,0 +1,20 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css="text/css" href="mystyle.clss"/>
+<title>sravani</title>
+</head>
+<style>
+#parag{
+color:red
+}
+.cls{
+color:blue
+}
+</style>
+<body>
+<p id="parag">sravani</p>
+<p class="cls">hello</p>
+
+}
+</body>
+</html>
